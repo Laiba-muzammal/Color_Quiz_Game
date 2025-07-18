@@ -1,5 +1,5 @@
 from quiz_logic import play_quiz
 from questions import questions
 
-print("🎮 WELCOME TO THE QUIZ GAME!\n")
+print("🎉 Welcome to Quizzy Quest! 🎉\n")
 play_quiz(questions)
