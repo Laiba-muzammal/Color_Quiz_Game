@@ -58,5 +58,3 @@ quizzy_quest/
 * Instant feedback on right/wrong answers
 * Earnings increase with every correct answer
 * Easy to expand with more questions
-
----
