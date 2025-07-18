@@ -60,10 +60,3 @@ quizzy_quest/
 * Easy to expand with more questions
 
 ---
-
-## 🔮 Future Ideas
-
-* Difficulty levels (easy/medium/hard)
-* High-score saving and leaderboard
-* Timer countdown per question
-* Lifelines (e.g., 50-50 or skip)
